@@ -1,17 +1,6 @@
 <div id="top"></div>
 
 
-
-
-
-  
- 
-
- 
-  
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -41,7 +30,7 @@
 
 
 
-This is a Crypto App built with React that fetches and displays cryptocurrencies data from  [COINGECKO](https://www.coingecko.com/en/api) free API.
+This is a Crypto App built with React that fetches and displays cryptocurrencies data from  [COINGECKO](https://www.coingecko.com/en/api) free API (this API has a rate limit of 10-50 calls/minute).
 
 
 
