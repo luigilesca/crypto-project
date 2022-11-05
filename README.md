@@ -32,6 +32,17 @@
 
 This is a Crypto App built with React that fetches and displays cryptocurrencies data from  [COINGECKO](https://www.coingecko.com/en/api) free API (this API has a rate limit of 10-50 calls/minute).
 
+For this app i utilize useContext to manage the light/dark mode and the user-authentication.
+
+I manage the backend app with Firebase.
+
+In this app you can:
+
+  - search crypto with search-bar
+  - save and delete your favourite crypto
+  - Log in with email and password (Firebase backend)
+  - Change visibility mode (dark or light mode)
+
 
 
 Use the `BLANK_README.md` to get started.
@@ -86,10 +97,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [@Luigi Lesca](https://www.linkedin.com/in/luigi-lesca/) - luigilesca@hotmail.it
 
-Project Repository: [covid-19-tracker_2022
-](https://github.com/luigilesca/covid-19-tracker_2022.git)
+Project Repository: [crypto-app-2022
+](https://github.com/luigilesca/crypto-project)
 
-Project Website: [covid-19-tracker-2022-react - Netlify](https://covid-19-tracker-2022-react.netlify.app/)
+Project Website: [crypto-project-2022.vercel - Vercel](https://crypto-project-2022.vercel.app/)
 
 Portfolio: [Luigi Lesca-web-developer-portfolio](https://talent.start2impact.it/profile/luigi-lesca)
 
