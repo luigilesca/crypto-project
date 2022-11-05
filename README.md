@@ -52,7 +52,7 @@ Use the `BLANK_README.md` to get started.
 
 
 ### Built With
-- [React](https://it.reactjs.org/)
+- [REACT](https://it.reactjs.org/)
 - [TAILWIND](https://tailwindcss.com/) 
 - [AXIOS](https://axios-http.com/docs/intro)
 
