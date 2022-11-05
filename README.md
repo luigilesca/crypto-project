@@ -89,7 +89,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Repository: [covid-19-tracker_2022
 ](https://github.com/luigilesca/covid-19-tracker_2022.git)
 
-Project Website: [covid-19-tracker-2022-react - Netlify](https://covid-19-tracker-2022-react.netlify.app/)
+Project Website: [crypto-project-2022.vercel - Vercel](https://crypto-project-2022.vercel.app/)
 
 Portfolio: [Luigi Lesca-web-developer-portfolio](https://talent.start2impact.it/profile/luigi-lesca)
 
