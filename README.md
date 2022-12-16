@@ -86,7 +86,7 @@ npm install npm@latest -g
 1. Clone the repository locally with the git command:
 
    ```sh
-   git clone https://github.com/luigilesca/foodApp_React_2022.git
+   git clonehttps://github.com/luigilesca/crypto-project.git
    ```
 
 2. Install NPM packages:
